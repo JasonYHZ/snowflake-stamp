@@ -1,0 +1,15 @@
+{
+	"short_name": "Snow-Stamp",
+	"name": "Discord Snowflake to Timestamp Converter",
+	"icons": [
+		{
+			"src": "icon-192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		}
+	],
+	"start_url": "./index.html",
+	"display": "standalone",
+	"theme_color": "#69eaff",
+	"background_color": "#1a1e23"
+}

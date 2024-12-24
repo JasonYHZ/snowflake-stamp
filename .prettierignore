@@ -1,0 +1,7 @@
+package-lock.json
+node_modules/
+/build
+/coverage
+stats.html
+public/index.html
+public/privacy.html
